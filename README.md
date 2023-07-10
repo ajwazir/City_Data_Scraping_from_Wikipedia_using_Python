@@ -2,7 +2,7 @@
 ## City Data Scraping from Wikipedia using Python
 
 This repository contains Python code for scraping city data from Wikipedia. The code provided in this repository allows you to extract information about cities such as population, area, coordinates, and more from Wikipedia pages.
-
+Furthermore, if sql tables with the same specification(column names and workbook names) are already created the code also provides options to transfer the scraped data to sql. 
 ## Table of Contents
 
 - [Introduction](#introduction)
